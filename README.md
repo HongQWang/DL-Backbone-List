@@ -45,8 +45,8 @@ Description:   There is a paper list of object detection using deep learning.
 | FCOS          | <a href="https://arxiv.org/pdf/1904.01355.pdf">Paper</a>     | <a href="https://github.com/tianzhi0549/FCOS">Code</a>       |                     | 46.6                    | ICCV19       |
 | TridentNet    |                                                              |                                                              |                     | 48.4                    | ICCV19       |
 | YOLOv4        | <a href="https://arxiv.org/abs/2004.10934">Paper</a>         | <a href="https://github.com/AlexeyAB/darknet">Code</a>       |                     | 43.5                    | arXiv20      |
-| DetectoRS     | <a href="https://arxiv.org/pdf/2006.02334">Paper</a>         | <a href="https://github.com/joe-siyuan-qiao/DetectoRS">Code</a> |                     | 54.7                    | arXiv20      |
-| EfficitentDet | <a href="https://arxiv.org/pdf/1911.09070.pdf">Paper</a>     | <a href="https://github.com/google/automl/tree/master/efficientdet">Code</a> |                     | 55.1                    | CVPR20       |
 | DERT          |                                                              |                                                              |                     |                         | ECCV20       |
 | CBnet         |                                                              |                                                              |                     | 53.3                    | AAAI20       |
+| DetectoRS     | <a href="https://arxiv.org/pdf/2006.02334">Paper</a>         | <a href="https://github.com/joe-siyuan-qiao/DetectoRS">Code</a> |                     | 54.7                    | arXiv20      |
+| EfficitentDet | <a href="https://arxiv.org/pdf/1911.09070.pdf">Paper</a>     | <a href="https://github.com/google/automl/tree/master/efficientdet">Code</a> |                     | **55.1**                | CVPR20       |
 
